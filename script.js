@@ -2,12 +2,6 @@
 var generateBtn = document.querySelector("#generate");
 
 
-var lowerCase = "qwertyuiopasdfghjklzxcvbnm";
-var upperCase = "qwertyuiopasdfghjklzxcvbnm";
-var numbers = "0123456789";
-var symbols = "!@#$%^&*().,?";
-
-
 function generatePassword(){
     console.log("btn");
     // password length between 8 & 128 characters
